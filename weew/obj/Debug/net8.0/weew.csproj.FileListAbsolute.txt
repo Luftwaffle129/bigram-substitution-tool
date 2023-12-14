@@ -1,0 +1,14 @@
+J:\Code\school\cipher extras\weew\weew\bin\Debug\net8.0\weew.exe
+J:\Code\school\cipher extras\weew\weew\bin\Debug\net8.0\weew.deps.json
+J:\Code\school\cipher extras\weew\weew\bin\Debug\net8.0\weew.runtimeconfig.json
+J:\Code\school\cipher extras\weew\weew\bin\Debug\net8.0\weew.dll
+J:\Code\school\cipher extras\weew\weew\bin\Debug\net8.0\weew.pdb
+J:\Code\school\cipher extras\weew\weew\obj\Debug\net8.0\weew.GeneratedMSBuildEditorConfig.editorconfig
+J:\Code\school\cipher extras\weew\weew\obj\Debug\net8.0\weew.AssemblyInfoInputs.cache
+J:\Code\school\cipher extras\weew\weew\obj\Debug\net8.0\weew.AssemblyInfo.cs
+J:\Code\school\cipher extras\weew\weew\obj\Debug\net8.0\weew.csproj.CoreCompileInputs.cache
+J:\Code\school\cipher extras\weew\weew\obj\Debug\net8.0\weew.dll
+J:\Code\school\cipher extras\weew\weew\obj\Debug\net8.0\refint\weew.dll
+J:\Code\school\cipher extras\weew\weew\obj\Debug\net8.0\weew.pdb
+J:\Code\school\cipher extras\weew\weew\obj\Debug\net8.0\weew.genruntimeconfig.cache
+J:\Code\school\cipher extras\weew\weew\obj\Debug\net8.0\ref\weew.dll
