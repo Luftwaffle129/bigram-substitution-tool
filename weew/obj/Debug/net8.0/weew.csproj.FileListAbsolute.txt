@@ -12,3 +12,4 @@ J:\Code\school\cipher extras\weew\weew\obj\Debug\net8.0\refint\weew.dll
 J:\Code\school\cipher extras\weew\weew\obj\Debug\net8.0\weew.pdb
 J:\Code\school\cipher extras\weew\weew\obj\Debug\net8.0\weew.genruntimeconfig.cache
 J:\Code\school\cipher extras\weew\weew\obj\Debug\net8.0\ref\weew.dll
+J:\Code\school\cipher extras\weew\weew\obj\Debug\net8.0\weew.sourcelink.json

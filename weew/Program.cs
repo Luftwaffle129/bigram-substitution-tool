@@ -44,21 +44,21 @@ while (true)
     {
         if (input.Substring(0, 1).ToUpper() == "A")
         {
-            if (input.Length == 7)
+            if (Regex.IsMatch(input, @"^(\w \w\w \w\w)$"))
                 AddRule(input.Substring(2, KEYLEN), input.Substring(5, KEYLEN));
                     else
             Console.WriteLine("syntax syntax");
         }
         else if (input.Substring(0, 1).ToUpper() == "U")
         {
-            if (input.Length == 7)
+            if (Regex.IsMatch(input, @"^(\w \w\w \w\w)$"))
                 UpdateRule(input.Substring(2, KEYLEN), input.Substring(5, KEYLEN));
             else
                 Console.WriteLine("syntax syntax");
         }
         else if (input.Substring(0, 1).ToUpper() == "R" || input.Substring(0, 1).ToUpper() == "D")
         {
-            if (input.Length == 4)
+            if (Regex.IsMatch(input, @"^(\w \w\w)$"))
                 DelRule(input.Substring(2, KEYLEN));
             else
                 Console.WriteLine("syntax syntax");
